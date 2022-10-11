@@ -1,0 +1,12 @@
+mat-card {
+  margin-bottom: 5%;
+}
+
+mat-card-header {
+  min-height: 62px;
+  max-height: 62px;
+}
+
+mat-card-content p {
+  font-size: 16px;
+}
