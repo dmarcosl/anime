@@ -1,9 +1,65 @@
 [
   {
-    "title": "",
-    "cover": "",
-    "weekday": 0,
-    "hour": 0,
+    "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
+    "cover": "shinmai_renkinjutsushi_no_tenpo_keiei.jpg",
+    "weekday": 1,
+    "hour": 13,
     "minute": 0
+  },
+  {
+    "title": "Shinobi no Ittoki",
+    "cover": "shinobi_no_ittoki.jpg",
+    "weekday": 2,
+    "hour": 14,
+    "minute": 0
+  },
+  {
+    "title": "Yama no Susume - Next Summit",
+    "cover": "yama_no_susume_next_summit.jpg",
+    "weekday": 2,
+    "hour": 16,
+    "minute": 0
+  },
+  {
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "cover": "kage_no_jitsuryokusha_ni_naritakute.jpg",
+    "weekday": 3,
+    "hour": 14,
+    "minute": 30
+  },
+  {
+    "title": "Tensei Shitara Ken Deshita",
+    "cover": "tensei_shitara_ken_deshita.jpg",
+    "weekday": 3,
+    "hour": 14,
+    "minute": 30
+  },
+  {
+    "title": "Akiba Maid Sensou",
+    "cover": "akiba_maid_sensou.png",
+    "weekday": 4,
+    "hour": 15,
+    "minute": 0
+  },
+  {
+    "title": "Boku no Hero Academia 6",
+    "cover": "boku_no_hero_academia_6.jpg",
+    "weekday": 6,
+    "hour": 9,
+    "minute": 30
+  },
+  {
+    "title": "Beast Tamer",
+    "cover": "beast_tamer.jpg",
+    "weekday": 6,
+    "hour": 13,
+    "minute": 30
+  },
+  {
+    "title": "Spy x Family 2",
+    "cover": "spy_x_family_2.jpg",
+    "weekday": 6,
+    "hour": 15,
+    "minute": 30
   }
 ]
