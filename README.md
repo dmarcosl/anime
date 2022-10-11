@@ -1,27 +1,28 @@
 # Anime
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+Extremely simple Angular app to keep track of new episodes of the animes I'm currently watching that are on the air.
 
-## Development server
+Libraries used:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [Angular Components](https://github.com/angular/components)
+- [Angular Flex Layout](http://github.com/angular/flex-layout)
 
-## Code scaffolding
+The repository consists of 3 branches:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **master**: skeleton of the app without data
+- **data**: master with data
+- **gh-pages**: compiled app
 
-## Build
+## How to build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```shell
+ng build --prod --base-href "https://dmarcosl.github.io/anime/"
+```
 
-## Running end-to-end tests
+Then push
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```shell
+npx angular-cli-ghpages --dir=dist/anime
+```
