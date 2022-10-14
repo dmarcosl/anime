@@ -42,6 +42,13 @@
     "minute": 0
   },
   {
+    "title": "Urusei Yatsura",
+    "cover": "urusei_yatsura.jpg",
+    "weekday": 4,
+    "hour": 18,
+    "minute": 20
+  },
+  {
     "title": "Boku no Hero Academia 6",
     "cover": "boku_no_hero_academia_6.jpg",
     "weekday": 6,
