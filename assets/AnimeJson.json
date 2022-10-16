@@ -10,7 +10,7 @@
     "title": "Shinobi no Ittoki",
     "cover": "shinobi_no_ittoki.jpg",
     "weekday": 2,
-    "hour": 14,
+    "hour": 13,
     "minute": 0
   },
   {
@@ -38,15 +38,15 @@
     "title": "Akiba Maid Sensou",
     "cover": "akiba_maid_sensou.png",
     "weekday": 4,
-    "hour": 15,
+    "hour": 16,
     "minute": 0
   },
   {
     "title": "Urusei Yatsura",
     "cover": "urusei_yatsura.jpg",
     "weekday": 4,
-    "hour": 18,
-    "minute": 20
+    "hour": 17,
+    "minute": 30
   },
   {
     "title": "Boku no Hero Academia 6",
@@ -59,8 +59,8 @@
     "title": "Beast Tamer",
     "cover": "beast_tamer.jpg",
     "weekday": 6,
-    "hour": 13,
-    "minute": 30
+    "hour": 15,
+    "minute": 0
   },
   {
     "title": "Spy x Family 2",
