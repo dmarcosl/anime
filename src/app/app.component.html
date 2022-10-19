@@ -9,10 +9,11 @@
     <mat-card-content>
       <p>Next episode on <b>{{ anime.date | date: "EEEE" }}</b> at <b>{{ anime.date | date: "HH:mm" }}</b></p>
       <p>
-        <span *ngIf="anime.remainingDays > 0"><b>{{ anime.remainingDays }}</b> days, </span>
-        <span *ngIf="anime.remainingDays > 0 || anime.remainingHours > 0"><b>{{ anime.remainingHours }}</b> hours, </span>
-        <span *ngIf="anime.remainingDays > 0 || anime.remainingHours > 0 || anime.remainingMinutes > 0"><b>{{ anime.remainingMinutes }}</b> mins, </span>
-        <span><b>{{ anime.remainingSeconds }}</b> secs</span>
+        <span *ngIf="anime.remainingDays > 0"><b>{{ anime.remainingDays }}</b> {{ anime.remainingDays == 1 ? 'day' : 'days' }}, </span>
+        <span *ngIf="anime.remainingDays > 0 || anime.remainingHours > 0"><b>{{ anime.remainingHours }}</b> {{ anime.remainingHours == 1 ? 'hour' : 'hours' }}, </span>
+        <span *ngIf="anime.remainingDays > 0 || anime.remainingHours > 0 || anime.remainingMinutes > 0"><b>{{ anime.remainingMinutes }}</b> {{ anime.remainingMinutes == 1 ? 'min' : 'mins' }}, </span>
+        <span *ngIf="anime.remainingDays > 0 || anime.remainingHours > 0 || anime.remainingMinutes > 0 || anime.remainingSeconds > 0"><b>{{ anime.remainingSeconds }}</b> {{ anime.remainingSeconds == 1 ? 'sec' : 'secs' }}</span>
+        <span *ngIf="anime.remainingDays <= 0 && anime.remainingHours <= 0 && anime.remainingMinutes <= 0  && anime.remainingSeconds <= 0"><b>Released!</b></span>
       </p>
     </mat-card-content>
   </mat-card>
