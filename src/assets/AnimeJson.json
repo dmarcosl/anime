@@ -21,13 +21,6 @@
     "minute": 0
   },
   {
-    "title": "Kage no Jitsuryokusha ni Naritakute!",
-    "cover": "kage_no_jitsuryokusha_ni_naritakute.jpg",
-    "weekday": 3,
-    "hour": 14,
-    "minute": 30
-  },
-  {
     "title": "Tensei Shitara Ken Deshita",
     "cover": "tensei_shitara_ken_deshita.jpg",
     "weekday": 3,
@@ -47,6 +40,13 @@
     "weekday": 4,
     "hour": 17,
     "minute": 30
+  },
+  {
+    "title": "Arknights - Reimei Zensou",
+    "cover": "arknights_reimei_zensou.jpg",
+    "weekday": 5,
+    "hour": 17,
+    "minute": 0
   },
   {
     "title": "Boku no Hero Academia 6",
