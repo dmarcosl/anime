@@ -10,7 +10,7 @@
     "title": "Shinobi no Ittoki",
     "cover": "shinobi_no_ittoki.jpg",
     "weekday": 2,
-    "hour": 13,
+    "hour": 14,
     "minute": 0
   },
   {
@@ -31,7 +31,7 @@
     "title": "Akiba Maid Sensou",
     "cover": "akiba_maid_sensou.png",
     "weekday": 4,
-    "hour": 16,
+    "hour": 17,
     "minute": 0
   },
   {
@@ -45,28 +45,28 @@
     "title": "Arknights - Reimei Zensou",
     "cover": "arknights_reimei_zensou.jpg",
     "weekday": 5,
-    "hour": 17,
+    "hour": 18,
     "minute": 0
   },
   {
     "title": "Boku no Hero Academia 6",
     "cover": "boku_no_hero_academia_6.jpg",
     "weekday": 6,
-    "hour": 9,
+    "hour": 10,
     "minute": 30
   },
   {
     "title": "Beast Tamer",
     "cover": "beast_tamer.jpg",
     "weekday": 6,
-    "hour": 15,
+    "hour": 16,
     "minute": 0
   },
   {
     "title": "Spy x Family 2",
     "cover": "spy_x_family_2.jpg",
     "weekday": 6,
-    "hour": 15,
+    "hour": 16,
     "minute": 30
   }
 ]
