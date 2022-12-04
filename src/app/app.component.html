@@ -3,10 +3,27 @@
             fxFlex.gt-xs="23" fxFlexOffset.gt-xs="1.6"
             fxFlexAlign="stretch" *ngFor="let anime of animeList">
     <mat-card-content fxLayout.gt-xs="row">
-      <img [src]="anime.cover" [alt]="anime.title" ngStyle.xs="height: 175px;" ngStyle.gt-xs="height: 250px;">
+      <img class="cover" [src]="anime.cover" [alt]="anime.title" ngStyle.xs="height: 175px;" ngStyle.gt-xs="height: 250px;">
       <div fxFlexOffset="16px" fxLayout="column" fxLayoutAlign="space-between start">
         <h1 style="margin: 0">{{ anime.title }}</h1>
         <div>
+          <div fxLayout="row" fxLayoutAlign="start start">
+            <div *ngIf="anime.animePlanetUrl">
+              <a [href]="anime.animePlanetUrl" target="_blank">
+                <img src="assets/logos/anime_planet.gif" alt="Anime-Planet logo" class="logo">
+              </a>
+            </div>
+            <div *ngIf="anime.animeNewsNetworkUrl" fxFlexOffset="10">
+              <a [href]="anime.animeNewsNetworkUrl" target="_blank">
+                <img src="assets/logos/anime_news_network.gif" alt="Anime News Network Logo" class="logo">
+              </a>
+            </div>
+            <div *ngIf="anime.anidbUrl" fxFlexOffset="10">
+              <a [href]="anime.anidbUrl" target="_blank">
+                <img src="assets/logos/anidb.gif" alt="AniDB Logo" class="logo">
+              </a>
+            </div>
+          </div>
           <p><b>{{ anime.date | date: "EEEE" }}</b> at <b>{{ anime.date | date: "HH:mm" }}</b></p>
           <p>
             <span *ngIf="anime.remainingDays > 0"><b>{{ anime.remainingDays }}</b> {{ anime.remainingDays == 1 ? 'day' : 'days' }}, </span>

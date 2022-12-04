@@ -5,6 +5,9 @@ import AnimeJson from '../assets/AnimeJson.json';
 class Anime {
   title: string;
   cover: string;
+  animePlanetUrl: string;
+  anidbUrl: string;
+  animeNewsNetworkUrl: string;
   date: Date;
 
   subscription: Subscription;
@@ -23,6 +26,9 @@ class Anime {
   constructor(data: any, now: Date) {
     this.title = data?.title;
     this.cover = 'assets/covers/' + data?.cover;
+    this.animePlanetUrl = data?.animePlanetUrl;
+    this.anidbUrl = data?.anidbUrl;
+    this.animeNewsNetworkUrl = data?.animeNewsNetworkUrl;
 
     // Sets the new airing date
     this.date = new Date();
