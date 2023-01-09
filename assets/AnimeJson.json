@@ -1,72 +1,202 @@
 [
   {
-    "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
-    "cover": "shinmai_renkinjutsushi_no_tenpo_keiei.jpg",
-    "weekday": 1,
-    "hour": 13,
-    "minute": 0
-  },
-  {
-    "title": "Shinobi no Ittoki",
-    "cover": "shinobi_no_ittoki.jpg",
-    "weekday": 2,
-    "hour": 14,
-    "minute": 0
-  },
-  {
-    "title": "Yama no Susume - Next Summit",
-    "cover": "yama_no_susume_next_summit.jpg",
-    "weekday": 2,
-    "hour": 16,
-    "minute": 0
-  },
-  {
-    "title": "Tensei Shitara Ken Deshita",
-    "cover": "tensei_shitara_ken_deshita.jpg",
-    "weekday": 3,
-    "hour": 14,
-    "minute": 30
-  },
-  {
-    "title": "Akiba Maid Sensou",
-    "cover": "akiba_maid_sensou.png",
-    "weekday": 4,
-    "hour": 17,
-    "minute": 0
-  },
-  {
-    "title": "Urusei Yatsura",
-    "cover": "urusei_yatsura.jpg",
-    "weekday": 4,
-    "hour": 17,
-    "minute": 30
-  },
-  {
-    "title": "Arknights - Reimei Zensou",
-    "cover": "arknights_reimei_zensou.jpg",
+    "title": "Ars no Kyojuu",
+    "cover": "ars_no_kyojuu.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/giant-beasts-of-ars",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26396",
+    "anidbUrl": "https://anidb.net/anime/17646",
     "weekday": 5,
-    "hour": 18,
-    "minute": 0
+    "hour": 17,
+    "minute": 30
+  },
+  {
+    "title": "Benriya Saitou-san, Isekai ni Iku",
+    "cover": "benriya_saitousan_isekai_ni_iku.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/handyman-saitou-in-another-world",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25144",
+    "anidbUrl": "https://anidb.net/anime/17140",
+    "weekday": 0,
+    "hour": 15,
+    "minute": 30
   },
   {
     "title": "Boku no Hero Academia 6",
     "cover": "boku_no_hero_academia_6.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/my-hero-academia-6",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24773",
+    "anidbUrl": "https://anidb.net/anime/16793",
     "weekday": 6,
     "hour": 10,
     "minute": 30
   },
   {
-    "title": "Beast Tamer",
-    "cover": "beast_tamer.jpg",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen",
+    "cover": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka_iv_fuka_shou_yakusai_hen.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iv-part-ii",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26400",
+    "anidbUrl": "https://anidb.net/anime/17652",
+    "weekday": 4,
+    "hour": 15,
+    "minute": 0
+  },
+  {
+    "title": "Inu ni Nattara Suki na Hito ni Hirowareta",
+    "cover": "inu_ni_nattara_suki_na_hito_ni_hirowareta.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25434",
+    "anidbUrl": "https://anidb.net/anime/17260",
+    "weekday": 4,
+    "hour": 15,
+    "minute": 30
+  },
+  {
+    "title": "Isekai Nonbiri Nouka",
+    "cover": "isekai_nonbiri_nouka.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/farming-life-in-another-world",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25479",
+    "anidbUrl": "https://anidb.net/anime/17290",
+    "weekday": 5,
+    "hour": 13,
+    "minute": 0
+  },
+  {
+    "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
+    "cover": "itai_no_wa_iya_nano_de_bougyoryoku_ni_kyokufuri_shitai_to_omoimasu_2.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-2",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23894",
+    "anidbUrl": "https://anidb.net/anime/15464",
+    "weekday": 3,
+    "hour": 16,
+    "minute": 30
+  },
+  {
+    "title": "Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+    "cover": "kaiko_sareta_ankoku_heishi_30dai_no_slow_na_second_life.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26097",
+    "anidbUrl": "https://anidb.net/anime/17517",
+    "weekday": 6,
+    "hour": 18,
+    "minute": 45
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko 2",
+    "cover": "kami_tachi_ni_hirowareta_otoko_2.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/by-the-grace-of-the-gods-2",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24417",
+    "anidbUrl": "https://anidb.net/anime/16364",
+    "weekday": 0,
+    "hour": 14,
+    "minute": 0
+  },
+  {
+    "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+    "cover": "koori_zokusei_danshi_to_cool_na_douryou_joshi.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/the-ice-guy-and-his-cool-female-colleague",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25872",
+    "anidbUrl": "https://anidb.net/anime/17473",
+    "weekday": 3,
+    "hour": 16,
+    "minute": 0
+  },
+  {
+    "title": "Maou Gakuin no Futekigousha II",
+    "cover": "maou_gakuin_no_futekigousha_ii.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/the-misfit-of-demon-king-academy-2",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24105",
+    "anidbUrl": "https://anidb.net/anime/16101",
+    "weekday": 6,
+    "hour": 18,
+    "minute": 0
+  },
+  {
+    "title": "NieR:Automata Ver1.1a",
+    "cover": "nier_automata_ver1_1a.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/nier-automata-ver-11a",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25372",
+    "anidbUrl": "https://anidb.net/anime/17214",
+    "weekday": 6,
+    "hour": 17,
+    "minute": 30
+  },
+  {
+    "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu You desu",
+    "cover": "ningen_fushin_no_boukensha_tachi_ga_sekai_wo_sukuu_you_desu.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24632",
+    "anidbUrl": "https://anidb.net/anime/16538",
+    "weekday": 2,
+    "hour": 16,
+    "minute": 0
+  },
+  {
+    "title": "Onii-chan wa Oshimai!",
+    "cover": "onii_chan_wa_oshimai.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/onii-chan-wa-oshimai",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25571",
+    "anidbUrl": "https://anidb.net/anime/17328",
+    "weekday": 4,
+    "hour": 16,
+    "minute": 30
+  },
+  {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "cover": "otonari_no_tenshi_sama_ni_itsunomanika_dame_ningen_ni_sareteita_ken.png",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/the-angel-next-door-spoils-me-rotten",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25110",
+    "anidbUrl": "https://anidb.net/anime/17108",
     "weekday": 6,
     "hour": 16,
     "minute": 0
   },
   {
-    "title": "Spy x Family 2",
-    "cover": "spy_x_family_2.jpg",
+    "title": "Rougo ni Sonaete Isekai de 8-Man-Mai no Kinka wo Tamemasu",
+    "cover": "rougo_ni_sonaete_isekai_de_8_man_mai_no_kinka_wo_tamemasu.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/saving-80000-gold-in-another-world-for-my-retirement",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26137",
+    "anidbUrl": "https://anidb.net/anime/17523",
     "weekday": 6,
-    "hour": 16,
+    "hour": 19,
+    "minute": 45
+  },
+  {
+    "title": "Sugar Apple Fairy Tale",
+    "cover": "sugar_apple_fairy_tale.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/sugar-apple-fairy-tale",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24810",
+    "anidbUrl": "https://anidb.net/anime/16827",
+    "weekday": 5,
+    "hour": 15,
+    "minute": 0
+  },
+  {
+    "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+    "cover": "tensei_oujo_to_tensai_reijou_no_mahou_kakumei.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/the-magical-revolution-of-the-reincarnated-princess",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26209",
+    "anidbUrl": "https://anidb.net/anime/17569",
+    "weekday": 3,
+    "hour": 14,
+    "minute": 0
+  },
+  {
+    "title": "Tomo-chan wa Onnanoko!",
+    "cover": "tomo_chan_wa_onnanoko.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/tomo-chan-is-a-girl",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26002",
+    "anidbUrl": "https://anidb.net/anime/17494",
+    "weekday": 3,
+    "hour": 18,
+    "minute": 0
+  },
+  {
+    "title": "Urusei Yatsura",
+    "cover": "urusei_yatsura.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/urusei-yatsura-2022",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25106",
+    "anidbUrl": "https://anidb.net/anime/17096",
+    "weekday": 4,
+    "hour": 17,
     "minute": 30
   }
 ]
