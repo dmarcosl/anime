@@ -40,6 +40,16 @@
     "minute": 0
   },
   {
+    "title": "Eiyuu Ou, Bu wo Kiwameru Tame Tenseisu",
+    "cover": "eiyuu_ou_bu_wo_kiwameru_tame_tenseisu.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-mesu",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25006",
+    "anidbUrl": "https://anidb.net/anime/17015",
+    "weekday": 1,
+    "hour": 15,
+    "minute": 0
+  },
+  {
     "title": "Inu ni Nattara Suki na Hito ni Hirowareta",
     "cover": "inu_ni_nattara_suki_na_hito_ni_hirowareta.png",
     "animePlanetUrl": "https://www.anime-planet.com/anime/inu-ni-nattara-suki-na-hito-ni-hirowareta",
@@ -188,6 +198,16 @@
     "weekday": 3,
     "hour": 18,
     "minute": 0
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi",
+    "cover": "tondemo_skill_de_isekai_hourou_meshi.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/campfire-cooking-in-another-world-with-my-absurd-skill",
+    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26519",
+    "anidbUrl": "https://anidb.net/anime/17689",
+    "weekday": 2,
+    "hour": 17,
+    "minute": 30
   },
   {
     "title": "Urusei Yatsura",
