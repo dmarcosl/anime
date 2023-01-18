@@ -7,17 +7,7 @@
     "anidbUrl": "https://anidb.net/anime/17646",
     "weekday": 5,
     "hour": 17,
-    "minute": 30
-  },
-  {
-    "title": "Benriya Saitou-san, Isekai ni Iku",
-    "cover": "benriya_saitousan_isekai_ni_iku.jpg",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/handyman-saitou-in-another-world",
-    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25144",
-    "anidbUrl": "https://anidb.net/anime/17140",
-    "weekday": 0,
-    "hour": 15,
-    "minute": 30
+    "minute": 0
   },
   {
     "title": "Boku no Hero Academia 6",
@@ -46,8 +36,8 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25006",
     "anidbUrl": "https://anidb.net/anime/17015",
     "weekday": 1,
-    "hour": 15,
-    "minute": 0
+    "hour": 19,
+    "minute": 15
   },
   {
     "title": "Inu ni Nattara Suki na Hito ni Hirowareta",
@@ -86,8 +76,8 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26097",
     "anidbUrl": "https://anidb.net/anime/17517",
     "weekday": 6,
-    "hour": 18,
-    "minute": 45
+    "hour": 15,
+    "minute": 0
   },
   {
     "title": "Kami-tachi ni Hirowareta Otoko 2",
@@ -105,9 +95,9 @@
     "animePlanetUrl": "https://www.anime-planet.com/anime/the-ice-guy-and-his-cool-female-colleague",
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25872",
     "anidbUrl": "https://anidb.net/anime/17473",
-    "weekday": 3,
-    "hour": 16,
-    "minute": 0
+    "weekday": 2,
+    "hour": 15,
+    "minute": 30
   },
   {
     "title": "Maou Gakuin no Futekigousha II",
@@ -157,7 +147,7 @@
     "anidbUrl": "https://anidb.net/anime/17108",
     "weekday": 6,
     "hour": 16,
-    "minute": 0
+    "minute": 30
   },
   {
     "title": "Rougo ni Sonaete Isekai de 8-Man-Mai no Kinka wo Tamemasu",
@@ -176,7 +166,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24810",
     "anidbUrl": "https://anidb.net/anime/16827",
     "weekday": 5,
-    "hour": 15,
+    "hour": 14,
     "minute": 0
   },
   {
