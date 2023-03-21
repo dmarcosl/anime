@@ -1,22 +1,12 @@
 [
   {
-    "title": "Ars no Kyojuu",
-    "cover": "ars_no_kyojuu.png",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/giant-beasts-of-ars",
-    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26396",
-    "anidbUrl": "https://anidb.net/anime/17646",
-    "weekday": 5,
-    "hour": 17,
-    "minute": 0
-  },
-  {
     "title": "Boku no Hero Academia 6",
     "cover": "boku_no_hero_academia_6.jpg",
     "animePlanetUrl": "https://www.anime-planet.com/anime/my-hero-academia-6",
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24773",
     "anidbUrl": "https://anidb.net/anime/16793",
     "weekday": 6,
-    "hour": 10,
+    "hour": 9,
     "minute": 30
   },
   {
@@ -26,7 +16,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26400",
     "anidbUrl": "https://anidb.net/anime/17652",
     "weekday": 4,
-    "hour": 15,
+    "hour": 14,
     "minute": 0
   },
   {
@@ -66,7 +56,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23894",
     "anidbUrl": "https://anidb.net/anime/15464",
     "weekday": 3,
-    "hour": 16,
+    "hour": 15,
     "minute": 30
   },
   {
@@ -76,7 +66,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26097",
     "anidbUrl": "https://anidb.net/anime/17517",
     "weekday": 6,
-    "hour": 15,
+    "hour": 14,
     "minute": 0
   },
   {
@@ -96,18 +86,8 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25872",
     "anidbUrl": "https://anidb.net/anime/17473",
     "weekday": 2,
-    "hour": 15,
+    "hour": 14,
     "minute": 30
-  },
-  {
-    "title": "Maou Gakuin no Futekigousha II",
-    "cover": "maou_gakuin_no_futekigousha_ii.jpg",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/the-misfit-of-demon-king-academy-2",
-    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24105",
-    "anidbUrl": "https://anidb.net/anime/16101",
-    "weekday": 6,
-    "hour": 18,
-    "minute": 0
   },
   {
     "title": "NieR:Automata Ver1.1a",
@@ -116,7 +96,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25372",
     "anidbUrl": "https://anidb.net/anime/17214",
     "weekday": 6,
-    "hour": 17,
+    "hour": 16,
     "minute": 30
   },
   {
@@ -126,7 +106,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24632",
     "anidbUrl": "https://anidb.net/anime/16538",
     "weekday": 2,
-    "hour": 16,
+    "hour": 15,
     "minute": 0
   },
   {
@@ -136,7 +116,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25571",
     "anidbUrl": "https://anidb.net/anime/17328",
     "weekday": 4,
-    "hour": 16,
+    "hour": 15,
     "minute": 30
   },
   {
@@ -146,7 +126,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25110",
     "anidbUrl": "https://anidb.net/anime/17108",
     "weekday": 6,
-    "hour": 16,
+    "hour": 15,
     "minute": 0
   },
   {
@@ -156,18 +136,8 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26137",
     "anidbUrl": "https://anidb.net/anime/17523",
     "weekday": 6,
-    "hour": 19,
+    "hour": 18,
     "minute": 45
-  },
-  {
-    "title": "Sugar Apple Fairy Tale",
-    "cover": "sugar_apple_fairy_tale.jpg",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/sugar-apple-fairy-tale",
-    "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24810",
-    "anidbUrl": "https://anidb.net/anime/16827",
-    "weekday": 5,
-    "hour": 14,
-    "minute": 0
   },
   {
     "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
@@ -176,7 +146,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26209",
     "anidbUrl": "https://anidb.net/anime/17569",
     "weekday": 3,
-    "hour": 14,
+    "hour": 13,
     "minute": 0
   },
   {
@@ -186,7 +156,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26002",
     "anidbUrl": "https://anidb.net/anime/17494",
     "weekday": 3,
-    "hour": 18,
+    "hour": 17,
     "minute": 0
   },
   {
@@ -196,7 +166,7 @@
     "animeNewsNetworkUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26519",
     "anidbUrl": "https://anidb.net/anime/17689",
     "weekday": 2,
-    "hour": 17,
+    "hour": 16,
     "minute": 30
   },
   {
