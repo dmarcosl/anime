@@ -1,15 +1,5 @@
 [
   {
-    "title": "Boku no Kokoro no Yabai Yatsu",
-    "cover": "boku_no_kokoro_no_yabai_yatsu.jpg",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/the-dangers-in-my-heart",
-    "animeNewsNetworkUrl": "",
-    "anidbUrl": "https://anidb.net/anime/17547",
-    "weekday": 6,
-    "hour": 18,
-    "minute": 0
-  },
-  {
     "title": "Dead Mount Death Play",
     "cover": "dead_mount_death_play.jpg",
     "animePlanetUrl": "https://www.anime-planet.com/anime/dead-mount-death-play",
@@ -38,16 +28,6 @@
     "weekday": 1,
     "hour": 17,
     "minute": 0
-  },
-  {
-    "title": "Isekai Shoukan wa Nidome desu",
-    "cover": "isekai_shoukan_wa_nidome_desu.png",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/summoned-to-another-world-for-a-second-time",
-    "animeNewsNetworkUrl": "",
-    "anidbUrl": "https://anidb.net/anime/16936",
-    "weekday": 6,
-    "hour": 18,
-    "minute": 45
   },
   {
     "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
@@ -110,13 +90,13 @@
     "minute": 0
   },
   {
-    "title": "Tensei Kizoku no Isekai Boukenroku",
-    "cover": "tensei_kizoku_no_isekai_boukenroku.png",
-    "animePlanetUrl": "https://www.anime-planet.com/anime/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far",
+    "title": "Pocket Monsters (2023)",
+    "cover": "pocket_monsters_2023.jpg",
+    "animePlanetUrl": "https://www.anime-planet.com/anime/pokemon-horizons-the-series",
     "animeNewsNetworkUrl": "",
-    "anidbUrl": "https://anidb.net/anime/17552",
+    "anidbUrl": "https://anidb.net/anime/17777",
     "weekday": 6,
-    "hour": 13,
+    "hour": 11,
     "minute": 0
   },
   {
