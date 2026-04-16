@@ -18,7 +18,7 @@ The repository consists of 3 branches:
 
 
 ```shell
-ng build --prod --base-href "https://dmarcosl.github.io/anime/"
+npm run build:pages
 ```
 
 Then push
